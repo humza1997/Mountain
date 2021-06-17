@@ -1,0 +1,27 @@
+@media only screen and (max-width: 700px){
+
+    .row .col.s4 {
+        width: 100%;
+      margin-left: auto;
+      left: auto;
+      right: auto;
+    
+    }
+    } 
+
+    @media only screen and (orientation: portait){
+
+        .row .col.s4 {
+            width: 100%;
+          margin-left: auto;
+          left: auto;
+          right: auto;
+        
+        }
+        } 
+
+
+.head{
+    text-align: center;
+    margin:auto;
+}

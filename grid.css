@@ -1,0 +1,29 @@
+header{grid-area: head;}
+footer{grid-area: foot;}
+main{grid-area: main;}
+nav{grid-area: nav;}
+aside{grid-area: aside;}
+
+/* body.home{
+    display:grid;
+    height:100vh;
+    width:100%;
+    grid-template-rows: 25% 1fr 20% ;
+    grid-template-areas: "header"
+                        "main"
+                        "nav";
+
+
+} */
+/* body.history{
+    display:grid;
+    height:100vh;
+    width:100%;
+    grid-template-columns: 60% 1fr;
+    grid-template-rows: 10% 10% 1fr ;
+    grid-template-areas: "head head"
+                        "nav nav"
+                        "main aside";
+
+
+} */
